@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28732" started-at="2019-11-09T16:48:42Z" finished-at="2019-11-09T16:49:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28732" started-at="2019-11-09T16:48:42Z" finished-at="2019-11-09T16:49:11Z">
+      <class name="appium.LaunchSite">
+        <test-method status="PASS" signature="launch()[pri:0, instance:appium.LaunchSite@536aaa8d]" name="launch" duration-ms="15306" started-at="2019-11-09T16:48:42Z" finished-at="2019-11-09T16:48:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="fillUserid()[pri:1, instance:appium.LaunchSite@536aaa8d]" name="fillUserid" duration-ms="4789" started-at="2019-11-09T16:48:58Z" finished-at="2019-11-09T16:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserid -->
+        <test-method status="PASS" signature="fillPassword()[pri:2, instance:appium.LaunchSite@536aaa8d]" name="fillPassword" duration-ms="4438" started-at="2019-11-09T16:49:02Z" finished-at="2019-11-09T16:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillPassword -->
+        <test-method status="PASS" signature="closeSite()[pri:3, instance:appium.LaunchSite@536aaa8d]" name="closeSite" duration-ms="4161" started-at="2019-11-09T16:49:07Z" finished-at="2019-11-09T16:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+      </class> <!-- appium.LaunchSite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
